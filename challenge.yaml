@@ -1,0 +1,7 @@
+slug: seccomp-jail
+title: Seccomp Jail
+category: binary exploitation
+difficulty: hard
+points: 450
+codec: fernet
+repo_url: https://github.com/picoclone/seccomp-jail
